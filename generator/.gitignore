@@ -1,0 +1,30 @@
+# Environment Variables
+.env
+
+# Python
+*.py[cod]
+__pycache__/
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# IDE/Text Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build tools and artifacts
+/dist
+/build
+*.log
+*.lock
+
+# Misc
+*.tmp
+*.bak
+*~
